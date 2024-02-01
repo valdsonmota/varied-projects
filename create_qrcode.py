@@ -3,7 +3,7 @@ import png
 from pyqrcode import QRCode
 
 #Link para criação do QRCode
-QRString = 'https://drive.google.com/file/d/1fC8l6PTXg-gMV9P7IBuvJIetshHrD7l2/view?usp=sharing'
+QRString = 'https://valdsonmota.github.io/projeto-site-portfolio/pages/python-studies.html'
 
 #Geração do QRCode
 url = pyqrcode.create(QRString)
